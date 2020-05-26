@@ -1,2 +1,2 @@
 # AntiCaptcha
-A challenge to hack variant captcha
+A challenge to hack various captchas.
